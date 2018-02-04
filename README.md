@@ -1,5 +1,5 @@
 # SupportGroupConnect
-To aid users who suffer from trauma or illnesses to connect with other similar people
+To provide those who are in need of support and a listening ear with a means of connection
 <br>
 pip install flask
 <br>
